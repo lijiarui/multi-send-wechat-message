@@ -1,7 +1,7 @@
 import {
     Wechaty
     , Contact
-} from '../'
+} from 'wechaty'
 import log from './logger'
 
 let taskFuncList: Function[] = []
